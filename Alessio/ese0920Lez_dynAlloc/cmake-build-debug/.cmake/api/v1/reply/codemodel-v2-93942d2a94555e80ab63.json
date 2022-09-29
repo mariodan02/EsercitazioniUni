@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ese0920Lez_dynAlloc",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ese0920Lez_dynAlloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ese0920Lez_dynAlloc-Debug-b66f802e80b7a84fa808.json",
+					"name" : "ese0920Lez_dynAlloc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alessio/github/C/esercitazioniuni/Alessio/ese0920Lez_dynAlloc/cmake-build-debug",
+		"source" : "/home/alessio/github/C/esercitazioniuni/Alessio/ese0920Lez_dynAlloc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

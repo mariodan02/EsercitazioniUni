@@ -1,0 +1,4 @@
+/opt/clion-2022.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2022.2.3/bin/ninja/linux/ninja -G Ninja -S /home/alessio/github/C/esercitazioniuni/Alessio/ese0927 -B /home/alessio/github/C/esercitazioniuni/Alessio/ese0927/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alessio/github/C/esercitazioniuni/Alessio/ese0927/cmake-build-debug
