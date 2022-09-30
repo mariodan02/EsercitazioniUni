@@ -1,3 +1,0 @@
-/home/alessio/github/C/esercitazioniuni/Alessio/ese0922_esameStruct/cmake-build-debug/CMakeFiles/ese0922_esameStruct.dir
-/home/alessio/github/C/esercitazioniuni/Alessio/ese0922_esameStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alessio/github/C/esercitazioniuni/Alessio/ese0922_esameStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
